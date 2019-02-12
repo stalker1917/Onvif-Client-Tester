@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.347,D:\Мои программы\Delphi\OnvifTester\OpenOnvifTester\projects\OnvifTester.dproj=D:\Мои программы\Delphi\OnvifTester\OpenOnvifTester\projects\SOAPClient.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,D:\Мои программы\Delphi\OnvifTester\OpenOnvifTester\units\unitIMyService.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.001,=D:\Мои программы\Delphi\Soap\CreatingConsumingSoapService-master\Client_prp4\units\devicemgmt.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.696,D:\Мои программы\Delphi\Soap\CreatingConsumingSoapService-master\Client_prp4\projects\Unit1.pas=D:\Мои программы\Delphi\Soap\CreatingConsumingSoapService-master\Client_prp4\projects\unitdevice.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,=D:\Мои программы\Delphi\Soap\CreatingConsumingSoapService-master\Client_prp4\projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.305,D:\Мои программы\Delphi\Soap\CreatingConsumingSoapService-master\Client_prp4\projects\unitdevice.pas=D:\Мои программы\Delphi\Soap\CreatingConsumingSoapService-master\Client_prp4\units\unitdevice.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\OpenOnvifTester"/>
+    <File Path="..\forms"/>
+    <File Path="..\forms\formMain.pas"/>
+    <File Path="..\forms\formMain.dfm"/>
+    <File Path="..\units"/>
+    <File Path="..\units\devicemgmt.pas"/>
+    <File Path="..\units\unitdevice.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
